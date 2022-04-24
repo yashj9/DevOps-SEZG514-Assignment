@@ -3,3 +3,5 @@ This is the Sample Document file to demonstrate GIT workflow exercise.
 Now at this step feature branch has created.
 
 we have done some change in this feature_1 branch to demonstrate a pull request as a collabolator. 
+
+This line will create confilct by adding info.
